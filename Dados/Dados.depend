@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1687285158 source:c:\users\gonza\documents\proyectolab\dados\main.cpp
+	<iostream>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1687285261 c:\users\gonza\documents\proyectolab\dados\funciones.h
+	"rlutil.h"
+
+1571584339 c:\users\gonza\documents\proyectolab\dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687370756 source:c:\users\pc\desktop\gaston facultad\utn 1er a—o\laboratorio\.rar integrador\dados\main.cpp
+	<iostream>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1687467123 c:\users\pc\desktop\gaston facultad\utn 1er a—o\laboratorio\.rar integrador\dados\funciones.h
+	"rlutil.h"
+
+1571584339 c:\users\pc\desktop\gaston facultad\utn 1er a—o\laboratorio\.rar integrador\dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
